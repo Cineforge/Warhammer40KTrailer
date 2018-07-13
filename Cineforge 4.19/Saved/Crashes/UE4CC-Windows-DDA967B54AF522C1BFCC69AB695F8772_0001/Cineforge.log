@@ -1,0 +1,1060 @@
+﻿Log file open, 07/13/18 15:11:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cineforge
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-166116546) SRandInit(-166116546).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.314461
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.685s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am May-PC (10.2.7.62:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.13-13.12.00:357][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.13-13.12.00:357][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.13-13.12.00:384][  0]LogInit: Computer: MAY-PC
+[2018.07.13-13.12.00:384][  0]LogInit: User: admin
+[2018.07.13-13.12.00:384][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.13-13.12.00:384][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.07.13-13.12.00:385][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.13-13.12.00:385][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.13-13.12.00:385][  0]LogMemory: Process Physical Memory: 275.13 MB used, 275.13 MB peak
+[2018.07.13-13.12.00:385][  0]LogMemory: Process Virtual Memory: 264.86 MB used, 264.86 MB peak
+[2018.07.13-13.12.00:385][  0]LogMemory: Physical Memory: 5397.32 MB used,  10888.16 MB free, 16285.48 MB total
+[2018.07.13-13.12.00:385][  0]LogMemory: Virtual Memory: 4794.11 MB used,  10888.16 MB free, 134217728.00 MB total
+[2018.07.13-13.12.00:425][  0]LogInit: Using OS detected language (de-DE).
+[2018.07.13-13.12.00:425][  0]LogInit: Using OS detected locale (de-DE).
+[2018.07.13-13.12.00:431][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.07.13-13.12.01:081][  0]LogStreaming: Display: Took  0.656s to EndInitTextLocalization.
+[2018.07.13-13.12.01:081][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.13-13.12.01:128][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.13-13.12.01:128][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.13-13.12.01:394][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.13-13.12.01:452][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.07.13-13.12.01:452][  0]LogD3D11RHI:       3040/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.13-13.12.01:462][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.07.13-13.12.01:462][  0]LogD3D11RHI:       128/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.13-13.12.01:465][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.13-13.12.01:465][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.13-13.12.01:465][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.13-13.12.01:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.13-13.12.01:487][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.13-13.12.01:487][  0]LogWindows: EnumDisplayDevices:
+[2018.07.13-13.12.01:487][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.07.13-13.12.01:487][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.07.13-13.12.01:487][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.07.13-13.12.01:488][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.13-13.12.01:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.07.13-13.12.01:488][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.13-13.12.01:488][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.13-13.12.01:488][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.07.13-13.12.01:518][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.13-13.12.01:518][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.13-13.12.01:518][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.13-13.12.01:530][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.13-13.12.01:531][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Intermediate/Shaders/WorkingDirectory/4532/).
+[2018.07.13-13.12.01:531][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/3ECA91AD4644E4399106BF89FF192106/'.
+[2018.07.13-13.12.01:850][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.13-13.12.01:868][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.13-13.12.01:885][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.13-13.12.01:906][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.13-13.12.01:925][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.13-13.12.01:944][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.13-13.12.01:981][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.13-13.12.02:017][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.13-13.12.02:030][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.13-13.12.02:051][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.13-13.12.02:072][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.13-13.12.02:095][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.13-13.12.02:112][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.13-13.12.02:130][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.13-13.12.02:146][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.13-13.12.02:201][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.13-13.12.02:202][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.13-13.12.02:234][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.13-13.12.02:237][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.13-13.12.02:287][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.13-13.12.02:307][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.13-13.12.02:328][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.13-13.12.02:347][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.13-13.12.02:367][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.13-13.12.02:388][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.13-13.12.02:388][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.13-13.12.02:566][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.13-13.12.02:566][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.13-13.12.02:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.13-13.12.03:529][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.13-13.12.03:607][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.13-13.12.03:608][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.13-13.12.03:608][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.13-13.12.03:608][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.13-13.12.03:608][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.13-13.12.03:608][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.13-13.12.03:627][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.13-13.12.03:641][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.13-13.12.03:641][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.13-13.12.03:641][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.13-13.12.03:672][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.13-13.12.03:672][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.13-13.12.03:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.13-13.12.03:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.13-13.12.03:875][  0]LogAssetRegistry: FAssetRegistry took 0.0349 seconds to start up
+[2018.07.13-13.12.04:349][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.13-13.12.04:591][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.13-13.12.04:597][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.13-13.12.04:597][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.13-13.12.04:597][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.13-13.12.04:597][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.13-13.12.04:597][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.13-13.12.04:638][  0]LogNetVersion: Cineforge , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4224331423)
+[2018.07.13-13.12.05:205][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.060845 seconds
+[2018.07.13-13.12.05:214][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.13-13.12.05:214][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.13-13.12.05:214][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.13-13.12.07:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.13-13.12.07:753][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.13-13.12.08:420][  0]SourceControl: Source control is disabled
+[2018.07.13-13.12.08:420][  0]SourceControl: Source control is disabled
+[2018.07.13-13.12.08:457][  0]SourceControl: Source control is disabled
+[2018.07.13-13.12.08:490][  0]SourceControl: Source control is disabled
+[2018.07.13-13.12.09:431][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.13-13.12.09:733][  0]LogOcInput: OculusInput pre-init called
+[2018.07.13-13.12.09:983][  0]LogEngine: Initializing Engine...
+[2018.07.13-13.12.09:986][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.13-13.12.09:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.13-13.12.09:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.13-13.12.10:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.13-13.12.10:295][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-13.12.10:365][  0]LogInit: FAudioDevice initialized.
+[2018.07.13-13.12.10:519][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.13-13.12.10:583][  0]LogInit: Texture streaming: Enabled
+[2018.07.13-13.12.10:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.13-13.12.10:660][  0]LogInit: Transaction tracking system initialized
+[2018.07.13-13.12.10:735][  0]BlueprintLog: New page: Editor Load
+[2018.07.13-13.12.10:899][  0]LocalizationService: Localization service is disabled
+[2018.07.13-13.12.11:035][  0]LogConsoleResponse: Display: 
+[2018.07.13-13.12.11:253][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.13-13.12.11:253][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.13-13.12.11:253][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.13-13.12.11:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.13-13.12.11:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.13-13.12.11:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/' took 0.02s
+[2018.07.13-13.12.11:802][  0]SourceControl: Source control is disabled
+[2018.07.13-13.12.11:802][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.13-13.12.11:802][  0]LightingResults: New page: Lighting Build
+[2018.07.13-13.12.11:808][  0]MapCheck: New page: Map Check
+[2018.07.13-13.12.11:808][  0]LightingResults: New page: Lighting Build
+[2018.07.13-13.12.11:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247a8d06390, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.13-13.12.11:977][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247a8d06390, Size=72
+[2018.07.13-13.12.11:977][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247a8d878d0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.13-13.12.11:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247b4595a80, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.13-13.12.12:461][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247c3639c00, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.13-13.12.12:500][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247c3639c00, Size=664
+[2018.07.13-13.12.12:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247c35b7a00, Size=664, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_4:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.13-13.12.12:523][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247c35b5f00, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.13-13.12.12:787][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:787][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.07.13-13.12.12:787][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/1M_Cube
+[2018.07.13-13.12.12:789][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:789][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.07.13-13.12.12:789][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/1M_Cube
+[2018.07.13-13.12.12:791][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:791][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:791][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:792][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:839][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:840][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:840][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:840][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:840][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:840][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:841][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:841][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:841][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:841][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:841][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:841][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:841][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:843][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:843][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:843][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:843][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:843][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:844][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:844][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:844][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:844][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:844][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:844][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:845][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:845][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:845][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:845][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:845][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:845][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:845][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:845][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:845][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:847][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:847][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:848][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:848][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:848][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:848][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:849][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:849][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:849][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:849][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:849][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:849][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:851][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:851][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:851][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:851][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:851][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:851][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:851][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:851][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:851][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:851][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:852][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:852][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:852][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:852][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:852][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:852][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:853][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:853][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:853][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:853][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:853][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:853][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:854][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/1M_Cube'
+[2018.07.13-13.12.12:854][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.12:854][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/1M_Cube' while loading NULL.
+[2018.07.13-13.12.12:854][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by StaticMeshComponent0
+[2018.07.13-13.12.14:098][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [47.312160ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.07.13-13.12.14:232][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [17.003048ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.07.13-13.12.14:340][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.13-13.12.14:385][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.13-13.12.14:399][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247a8d878d0, Size=72
+[2018.07.13-13.12.14:399][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247c35b7a00, Size=664
+[2018.07.13-13.12.14:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.13-13.12.14:487][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85,528ms to complete.
+[2018.07.13-13.12.14:487][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.685
+[2018.07.13-13.12.14:688][  0]LogCollectionManager: Loaded 0 collections in 0.002615 seconds
+[2018.07.13-13.12.14:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Collections/' took 0.01s
+[2018.07.13-13.12.14:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Developers/admin/Collections/' took 0.01s
+[2018.07.13-13.12.14:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Collections/' took 0.01s
+[2018.07.13-13.12.14:734][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.13-13.12.14:750][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2452 classes and 558 folders.
+[2018.07.13-13.12.14:761][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.13-13.12.14:840][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.13-13.12.14:849][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.13-13.12.14:960][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.13-13.12.14:963][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.13-13.12.14:973][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.13-13.12.15:114][  0]LogRenderer: Reallocating scene render targets to support 1224x632 Format 10 NumSamples 1 (Frame:1).
+[2018.07.13-13.12.15:316][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.13-13.12.15:316][  0]LogLoad: (Engine Initialization) Total time: 18.56 seconds
+[2018.07.13-13.12.15:316][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.13-13.12.15:326][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.13-13.12.15:349][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.13-13.12.15:353][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.13-13.12.15:414][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.13-13.12.15:450][  1]LogAssetRegistry: Asset discovery search completed in 11.5983 seconds
+[2018.07.13-13.12.15:453][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.13-13.12.15:453][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000118 seconds (updated 0 objects)
+[2018.07.13-13.12.26:483][280]LogSlate: Window 'Message Log' being destroyed
+[2018.07.13-13.12.26:521][280]LogSlate: Window 'Message Log' being destroyed
+[2018.07.13-13.12.28:803][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.12.29:000][384]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2018.07.13-13.12.31:030][384]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2018.07.13-13.12.31:031][384]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 64X64)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:032][384]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:033][384]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:033][384]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:033][384]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:033][384]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:033][384]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.07.13-13.12.31:060][384]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.12.31:305][384]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.13-13.12.31:305][384]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.13-13.12.31:305][384]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.13-13.12.31:305][384]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.13-13.12.31:529][384]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.07.13-13.12.31:529][384]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.13-13.12.31:529][384]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.07.13-13.12.31:529][384]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.07.13-13.12.31:529][384]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.12.31:570][384]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.07.13-13.12.31:570][384]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.07.13-13.12.31:570][384]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.07.13-13.12.31:570][384]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.07.13-13.12.31:708][384]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2018.07.13-13.12.31:708][384]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2018.07.13-13.12.31:708][384]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2018.07.13-13.12.31:708][384]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.12.32:027][384]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 64X64)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.07.13-13.12.32:027][384]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X64)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X64)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X64)
+[2018.07.13-13.12.32:310][384]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X64)
+[2018.07.13-13.12.32:311][384]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X64)
+[2018.07.13-13.12.32:311][384]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X64)
+[2018.07.13-13.12.32:311][384]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X64)
+[2018.07.13-13.12.32:311][384]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X64)
+[2018.07.13-13.12.32:311][384]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X64)
+[2018.07.13-13.12.32:606][384]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 64X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 64X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 32X32)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 128X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 128X64)
+[2018.07.13-13.12.32:607][384]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X64)
+[2018.07.13-13.12.32:609][384]LogAIModule: Creating AISystem for world Cineforge_world
+[2018.07.13-13.12.32:700][384]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.13-13.12.32:700][384]LightingResults: New page: Lighting Build
+[2018.07.13-13.12.32:701][384]LoadErrors: New page: Loading map: Cineforge_world.umap
+[2018.07.13-13.12.32:702][384]MapCheck: New page: Map Check
+[2018.07.13-13.12.32:702][384]LightingResults: New page: Lighting Build
+[2018.07.13-13.12.37:464][384]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.07.13-13.12.37:464][384]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.07.13-13.12.37:464][384]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.07.13-13.12.37:464][384]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.07.13-13.12.37:709][384]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.07.13-13.12.37:713][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.13-13.12.37:767][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.13-13.12.37:904][384]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.13-13.12.37:904][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136,464ms to complete.
+[2018.07.13-13.12.37:904][384]LogFileHelpers: Loading map 'Cineforge_world' took 5.205
+[2018.07.13-13.12.38:647][403]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.13-13.12.39:332][444]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.13-13.12.41:523][534]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.13-13.12.42:489][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.13-13.12.43:361][574]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.13-13.12.49:697][714]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.13-13.13.05:929][219]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.13-13.13.13:600][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.13-13.13.14:311][590]LogSavePackage: Save=409.61ms
+[2018.07.13-13.13.14:311][590]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_worldF63D556D488EF8B7EA808A865FFF60A3.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap'
+[2018.07.13-13.13.14:313][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.13.14:781][590]LogSavePackage: Save=300.55ms
+[2018.07.13-13.13.14:781][590]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world_BuiltData7480AD1D4A1BA8E8768171A7CAFE58B4.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset'
+[2018.07.13-13.13.14:784][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.13.27:886][878]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.13-13.13.28:130][878]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Cineforge.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.07.13-13.13.28:881][878]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.751 s
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: 
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 818]
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Cineforge.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: Stack: 
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000060F0B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000060C6AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000060C7ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000005B4DDD3B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000048B86A12 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000048B86BA7 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x00000000419450CE UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000041904805 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000041903DDD UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x00000000419190B4 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003DC14669 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000048B8B9BC UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x0000000049B2DF0A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000004A3C9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003FC65EAC UE4Editor.exe!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003FC76BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003FC76C4A UE4Editor.exe!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003FC84177 UE4Editor.exe!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000003FC85B87 UE4Editor.exe!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000009BA13034 KERNEL32.DLL!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: [Callstack] 0x000000009CDE1431 ntdll.dll!UnknownFunction []
+[2018.07.13-13.13.28:882][878]LogOutputDevice: Error: 
+[2018.07.13-13.13.28:886][878]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.13-13.13.29:513][878]LogStats:                    SendNewReport -  0.627 s
+[2018.07.13-13.13.29:513][878]LogStats:             FDebug::EnsureFailed -  1.383 s
+[2018.07.13-13.13.44:482][878]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.13-13.13.47:064][878]LogSourceControl: commit successful: [master (root-commit) 9fccfd9] Added Engine 4.19
+[2018.07.13-13.13.47:325][878]SourceControl: [master (root-commit) 9fccfd9] Added Engine 4.19
+[2018.07.13-13.13.47:325][878]SourceControl:  5 files changed, 6 insertions(+)
+[2018.07.13-13.13.47:325][878]SourceControl:  create mode 100644 Cineforge 4.19/Cineforge.uproject
+[2018.07.13-13.13.47:325][878]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.13.47:325][878]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.13.47:325][878]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_wrld_sharedassets/Grass_LayerInfo.uasset
+[2018.07.13-13.13.47:326][878]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_wrld_sharedassets/Mud_LayerInfo.uasset
+[2018.07.13-13.13.47:338][878]SourceControl: Commited [master (root-commit) 9fccfd9] Added Engine 4.19.
+[2018.07.13-13.14.49:216][218]LogSavePackage: Save=339.87ms
+[2018.07.13-13.14.49:216][218]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_worldDB70E2BA4E99E4F437F03FA8262E837E.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap'
+[2018.07.13-13.14.49:219][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.14.49:861][218]LogSavePackage: Save=376.60ms
+[2018.07.13-13.14.49:861][218]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world_BuiltData5FA3A1AC44BCED8B4C1AD1B1AE71E21A.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset'
+[2018.07.13-13.14.49:864][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.14.50:791][267]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.13-13.15.06:122][149]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.13-13.15.08:368][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.15.09:467][268]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.07.13-13.15.09:575][268]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.13-13.15.09:575][268]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.13-13.15.09:605][268]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.15.09:616][268]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.13-13.15.09:622][268]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.15.09:680][268]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.13-13.15.09:680][268]LogMaterial: Missing cached shader map for material Mat_blend_Terrain, compiling. 
+[2018.07.13-13.15.09:697][268]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.07.13-13.15.12:885][427]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.13-13.23.13:879][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.23.44:354][ 74]LogEditorActor: Deleted Actor: Landscape
+[2018.07.13-13.23.44:428][ 74]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2018.07.13-13.24.33:888][597]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.07.13-13.24.33:941][597]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X512)
+[2018.07.13-13.24.34:014][597]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X64)
+[2018.07.13-13.24.34:029][597]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2018.07.13-13.24.38:127][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.24.48:211][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.25.45:029][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.25.45:145][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.13-13.25.45:217][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-13.25.45:218][822]PIE: New page: PIE session: Cineforge_world (13.07.2018 17:25:45)
+[2018.07.13-13.25.45:219][822]LogPlayLevel: Creating play world package: /Game/Cineforge/UEDPIE_0_Cineforge_world
+[2018.07.13-13.25.45:284][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064659s)
+[2018.07.13-13.25.45:284][822]LogAIModule: Creating AISystem for world Cineforge_world
+[2018.07.13-13.25.45:286][822]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2018.07.13-13.25.45:286][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cineforge/Cineforge_world.Cineforge_world to /Game/Cineforge/UEDPIE_0_Cineforge_world.Cineforge_world (0.066968s)
+[2018.07.13-13.25.45:320][822]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-13.25.45:429][822]LogInit: FAudioDevice initialized.
+[2018.07.13-13.25.45:514][822]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247b9b2aa58, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.13-13.25.45:532][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247b9b2aa58, Size=52
+[2018.07.13-13.25.45:532][822]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247b9b2aa58, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_8:ExecuteUbergraph_FirstPersonHUD
+[2018.07.13-13.25.45:542][822]LogUObjectGlobals: Created PersistentFrame Addr=0x00000247b9b2b5f0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.13-13.25.45:579][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.13-13.25.45:596][822]LogWorld: Bringing World /Game/Cineforge/UEDPIE_0_Cineforge_world.Cineforge_world up for play (max tick rate 60) at 2018.07.13-15.25.45
+[2018.07.13-13.25.45:597][822]LogWorld: Bringing up level for play took: 0.012368
+[2018.07.13-13.25.45:620][822]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.07.13-13.25.45:622][822]PIE: Play in editor start time for /Game/Cineforge/UEDPIE_0_Cineforge_world 0,838
+[2018.07.13-13.26.01:662][648]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000247b9b2aa58, Size=52
+[2018.07.13-13.26.13:507][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.26.33:670][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.26.34:583][976]LogSavePackage: Save=545.26ms
+[2018.07.13-13.26.34:583][976]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world2A60C0AE4E7F08C1A2BA36AE4A02595F.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap'
+[2018.07.13-13.26.34:804][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.26.36:175][976]LogSavePackage: Save=421.62ms
+[2018.07.13-13.26.36:175][976]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world_BuiltData90566FC446B89B9FF984F48DE0CD470F.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset'
+[2018.07.13-13.26.36:181][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.26.41:582][153]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.13-13.26.48:303][153]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.13-13.26.50:479][153]LogSourceControl: commit successful: [master 36eaf52] Changed Landscape
+[2018.07.13-13.26.50:640][153]SourceControl: [master 36eaf52] Changed Landscape
+[2018.07.13-13.26.50:640][153]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.13-13.26.50:640][153]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_wrld.umap
+[2018.07.13-13.26.50:640][153]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Cineforge_wrld_BuiltData.uasset
+[2018.07.13-13.26.50:640][153]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/Mat_blend_Terrain.uasset
+[2018.07.13-13.26.50:640][153]SourceControl:  create mode 100644 Cineforge 4.19/Content/Cineforge/wordl.uasset
+[2018.07.13-13.26.50:651][153]SourceControl: Commited [master 36eaf52] Changed Landscape.
+[2018.07.13-13.27.42:705][681]LogSavePackage: Save=552.59ms
+[2018.07.13-13.27.42:705][681]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world003168A0487383F12F5670B603A8F20B.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap'
+[2018.07.13-13.27.42:707][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.27.43:589][681]LogSavePackage: Save=564.48ms
+[2018.07.13-13.27.43:589][681]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world_BuiltData87742CF0413EDE3C95E263B64C98D489.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset'
+[2018.07.13-13.27.43:595][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.28.01:338][248]MapCheck: New page: Map Check
+[2018.07.13-13.28.01:424][248]LightingResults: New page: Lighting Build - 13.07.2018 17:28:01
+[2018.07.13-13.28.01:877][248]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.13-13.28.02:228][248]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.13-13.28.02:299][248]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.13-13.28.04:608][248]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.07.13-13.28.04:649][248]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:8008
+
+Server stack trace: 
+   bei System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   bei System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   bei System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   bei System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   bei System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   bei System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   bei NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   bei NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.07.13-13.28.09:909][248]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.13-13.28.09:909][248]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4532
+[2018.07.13-13.28.11:163][248]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.13-13.28.11:163][248]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.13-13.28.11:163][248]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.13-13.28.11:163][248]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.13-13.28.11:163][248]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.13-13.28.11:593][248]LogEditorBuildUtils: Build time 0:10
+[2018.07.13-13.28.11:627][248]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.07.13-13.28.11:696][248]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.13-13.28.11:748][249]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_65, compiling. Is special engine material.
+[2018.07.13-13.28.11:764][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.13-13.28.11:764][249]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_65, compiling. Is special engine material.
+[2018.07.13-13.28.11:782][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.13-13.28.53:909][348]Job is a success!
+[2018.07.13-13.28.54:798][349]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.582s
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:          1: 7.5% covering 11.3% of volume
+[2018.07.13-13.28.54:799][349]LogVolumetricLightmapImport:          2: 91.5% covering 2.2% of volume
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:882][349]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:883][349]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:884][349]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:885][349]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:886][349]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2018.07.13-13.28.56:887][349]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:888][349]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:889][349]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:890][349]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:891][349]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:892][349]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 128X128)
+[2018.07.13-13.28.56:893][349]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 64X64)
+[2018.07.13-13.28.56:894][349]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:894][349]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2018.07.13-13.28.56:894][349]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2018.07.13-13.28.56:894][349]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2018.07.13-13.28.56:894][349]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2018.07.13-13.28.59:082][349]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 64X64)
+[2018.07.13-13.28.59:083][349]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2018.07.13-13.28.59:482][349]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2018.07.13-13.28.59:482][349]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2018.07.13-13.28.59:482][349]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2018.07.13-13.28.59:482][349]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2018.07.13-13.28.59:482][349]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2018.07.13-13.28.59:483][349]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 64X64)
+[2018.07.13-13.28.59:484][349]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 64X64)
+[2018.07.13-13.28.59:485][349]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 64X64)
+[2018.07.13-13.28.59:486][349]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 64X64)
+[2018.07.13-13.28.59:534][349]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 64X64)
+[2018.07.13-13.28.59:535][349]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 64X64)
+[2018.07.13-13.28.59:535][349]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 64X64)
+[2018.07.13-13.28.59:535][349]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 32X32)
+[2018.07.13-13.28.59:535][349]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 64X64)
+[2018.07.13-13.28.59:840][349]Lightmass on MAY-PC: 34.6 sec total, 1.12 sec importing, 826 ms setup, 5.28 sec photons, 27.3 sec processing, 0 ms extra exporting [82/82 mappings]. Threads: 3:11 min total, 1:08 min processing.
+[2018.07.13-13.28.59:922][349]LogStaticLightingSystem: Illumination: 58.4 sec (1.77 sec encoding lightmaps, 2.63 sec encoding shadowmaps)
+[2018.07.13-13.28.59:923][349]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 164 textures
+[2018.07.13-13.28.59:923][349]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 82 textures
+[2018.07.13-13.29.06:202][349]DumpUnbuiltLightIteractions
+[2018.07.13-13.29.06:202][349]Lights with unbuilt interactions: 0
+[2018.07.13-13.29.06:202][349]
+[2018.07.13-13.29.06:202][349]Primitives with unbuilt interactions: 0
+[2018.07.13-13.29.06:405][350]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.13-13.29.06:406][350]MapCheck: New page: Cineforge_world - 13.07.2018 17:29:06
+[2018.07.13-13.29.06:550][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143,798ms to complete.
+[2018.07.13-13.29.09:767][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-13.29.10:722][494]LogSavePackage: Save=583.88ms
+[2018.07.13-13.29.10:722][494]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_worldACE9142B4E183E51B014B2912A903832.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap'
+[2018.07.13-13.29.10:727][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world.umap
+[2018.07.13-13.29.12:636][494]LogSavePackage: Save=1613.97ms
+[2018.07.13-13.29.12:637][494]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Cineforge_world_BuiltData9C6F204E4D9F9D3A4F648FB18300BA19.tmp' to '../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset'
+[2018.07.13-13.29.12:648][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Cineforge/Cineforge_world_BuiltData.uasset
+[2018.07.13-13.29.14:682][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.13-13.29.14:983][548]EditorErrors: Warning: No assets to check in!
+[2018.07.13-13.29.22:643][591]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.07.13-13.29.22:742][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.13-13.29.23:752][614]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.07.13-13.29.24:254][614]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.13-13.29.24:577][614]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.07.13-13.29.24:577][614]LogWindows: Windows GetLastError: Der Vorgang wurde erfolgreich beendet. (0)
