@@ -349,3 +349,14 @@ LogInit: Object subsystem initialized
 [2018.07.28-10.51.07:867][  0]LogInit: Transaction tracking system initialized
 [2018.07.28-10.51.08:804][  0]BlueprintLog: New page: Editor Load
 [2018.07.28-10.51.10:562][  0]LocalizationService: Localization service is disabled
+[2018.07.28-10.51.12:129][  0]LogConsoleResponse: Display: 
+[2018.07.28-10.51.20:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/' took 0.01s
+[2018.07.28-10.51.20:531][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.28-10.51.20:557][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.28-10.51.20:557][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.28-10.51.20:557][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-10.51.20:557][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-10.51.23:334][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-10.51.23:429][  0]LightingResults: New page: Lighting Build
+[2018.07.28-10.51.23:476][  0]MapCheck: New page: Map Check
+[2018.07.28-10.51.23:476][  0]LightingResults: New page: Lighting Build
