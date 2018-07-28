@@ -360,3 +360,20 @@ LogInit: Object subsystem initialized
 [2018.07.28-10.51.23:429][  0]LightingResults: New page: Lighting Build
 [2018.07.28-10.51.23:476][  0]MapCheck: New page: Map Check
 [2018.07.28-10.51.23:476][  0]LightingResults: New page: Lighting Build
+[2018.07.28-10.51.30:006][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.28-10.51.31:356][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-10.51.31:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-10.51.31:648][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 147,954ms to complete.
+[2018.07.28-10.51.31:648][  0]LogFileHelpers: Loading map 'Template_Default' took 8.314
+[2018.07.28-10.51.33:383][  0]LogCollectionManager: Loaded 0 collections in 0.003360 seconds
+[2018.07.28-10.51.33:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Saved/Collections/' took 0.01s
+[2018.07.28-10.51.33:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Developers/admin/Collections/' took 0.01s
+[2018.07.28-10.51.33:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Warhammer40KTrailer/Cineforge 4.19/Content/Collections/' took 0.01s
+[2018.07.28-10.51.33:584][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.28-10.51.33:631][  0]LogContentBrowser: Native class hierarchy populated in 0.0313 seconds. Added 2466 classes and 564 folders.
+[2018.07.28-10.51.33:693][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.28-10.51.39:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-10.51.39:203][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.28-10.51.41:162][  0]LogSlate: Took 0.025088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-10.51.41:228][  0]LogSlate: Took 0.063726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-10.51.41:284][  0]LogSlate: Took 0.048993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
