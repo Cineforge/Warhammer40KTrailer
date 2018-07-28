@@ -329,3 +329,23 @@ LogInit: Object subsystem initialized
 [2018.07.28-10.50.27:452][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
 [2018.07.28-10.50.27:452][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
 [2018.07.28-10.50.27:452][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.28-10.50.57:855][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.07.28-10.50.57:939][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.28-10.50.57:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.28-10.50.59:187][  0]SourceControl: Source control is disabled
+[2018.07.28-10.51.01:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.28-10.51.01:995][  0]LogOcInput: OculusInput pre-init called
+[2018.07.28-10.51.03:533][  0]LogEngine: Initializing Engine...
+[2018.07.28-10.51.03:579][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.28-10.51.03:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-10.51.03:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-10.51.04:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.28-10.51.05:136][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.28-10.51.05:278][  0]LogInit: FAudioDevice initialized.
+[2018.07.28-10.51.05:717][  0]LogDerivedDataCache: Saved boot cache 0.42s 74MB C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-10.51.05:728][  0]LogInit: Texture streaming: Enabled
+[2018.07.28-10.51.05:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.28-10.51.05:841][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={80512006-4BF6-33CA-D11E-23A0C5CBEAAD}
+[2018.07.28-10.51.07:867][  0]LogInit: Transaction tracking system initialized
+[2018.07.28-10.51.08:804][  0]BlueprintLog: New page: Editor Load
+[2018.07.28-10.51.10:562][  0]LocalizationService: Localization service is disabled
